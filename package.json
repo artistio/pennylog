@@ -1,0 +1,22 @@
+{
+  "name": "pennylog",
+  "version": "1.0.0",
+  "description": "Expense Logger",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artistio/pennylog.git"
+  },
+  "author": "artist.io@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artistio/pennylog/issues"
+  },
+  "homepage": "https://github.com/artistio/pennylog#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
